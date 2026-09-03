@@ -1,0 +1,4 @@
+TEAM NOTES
+
+Repository changes should be focused and independently reviewable.
+Shared files should remain understandable without relying on local context.
